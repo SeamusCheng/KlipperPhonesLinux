@@ -33,6 +33,7 @@ Turning your old phones into high-performance Klipper host machine running on De
 - Xiaomi 5s ([xiaomi-capricorn](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi-gemini))
 - Xiaomi 5s plus ([xiaomi-natrium](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi-gemini))
 - Huawei Maimang 5 ([huawei milan](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Huawei_milan))
+- Huawei Maimang 4 ([huawei milan4](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/mm4))
 - Huawei G9 (Plus) ([huawei milan](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Huawei_milan))
 - Huawei Nova (Plus) ([huawei milan](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Huawei_milan))
 - oneplus 3 ([oneplus3](https://github.com/umeiko/KlipperPhonesLinux/releases/tag/Xiaomi-gemini))
